@@ -1,5 +1,5 @@
 echo "This is example  of a script"
 echo "this   gdddin  "
 echo "This is param Arshad"
-NUM=$(($FILSTNUMBER + $SECONNUMBER))
+NUM=$((($FILSTNUMBER + $SECONNUMBER)))
 echo "$NUM"
